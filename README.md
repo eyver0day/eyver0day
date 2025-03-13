@@ -54,7 +54,7 @@ I am a passionate and results-driven **penetration tester** and **cybersecurity 
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=eyver0day&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eyver0day&theme=react" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyver0day&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
